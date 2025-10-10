@@ -93,4 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE](License) file
 
 ---
 
-**Note**: This is an experimental research project. Use in production environments is not recommended without thorough security auditing.
+**Note**: This is an experimental research project. Use in production environments is not recommended without thorough security auditing. Moreover, even with the same model of GPU, the actual computing time can fluctuate by as much as 2x, hypothetically due to the "unnatural" data type from the lowest levels. 
