@@ -1,10 +1,10 @@
-# zkLoRA: Zero-Knowledge Proofs for LoRA Fine-tuning
+# VeriLoRA: Zero-Knowledge Proofs for LoRA Fine-tuning
 
 A CUDA-accelerated implementation of zero-knowledge proofs for Low-Rank Adaptation (LoRA) fine-tuning of large language models. This project enables verifiable and privacy-preserving fine-tuning of Transformer models while maintaining computational efficiency.
 
 ## 🚀 Overview
 
-zkLoRA is the first framework to provide end-to-end zero-knowledge verifiability for LoRA fine-tuning of large-scale language models. It ensures that all computational steps in the fine-tuning process are provably correct without revealing sensitive information such as model parameters or training data.
+VeriLoRA is the first framework to provide end-to-end zero-knowledge verifiability for LoRA fine-tuning of large-scale language models. It ensures that all computational steps in the fine-tuning process are provably correct without revealing sensitive information such as model parameters or training data.
 
 ### Key Features
 
