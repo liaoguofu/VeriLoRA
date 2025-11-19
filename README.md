@@ -64,16 +64,6 @@ We welcome contributions! Please see our contributing guidelines:
 3. Make your changes with appropriate tests
 4. Submit a pull request
 
-### Development Setup
-
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-make test
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](License) file for details.
