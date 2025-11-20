@@ -1,6 +1,6 @@
 # VeriLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs
 
-A CUDA-accelerated implementation of zero-knowledge proofs for Low-Rank Adaptation (LoRA) fine-tuning of large language models. This project enables verifiable and privacy-preserving fine-tuning of Transformer models while maintaining computational efficiency.
+A CUDA-accelerated implementation of zero-knowledge proofs for Low-Rank Adaptation (LoRA) fine-tuning of large language models. This project enables verifiable and privacy-preserving fine-tuning of Transformer models while maintaining computational efficiency. Note that our project is developed based on the zkllm codebase (https://github.com/jvhs0706/zkllm-ccs2024?tab=readme-ov-file).
 
 ## 🚀 Overview
 
